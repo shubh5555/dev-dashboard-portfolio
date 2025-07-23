@@ -4,7 +4,8 @@ A simple portfolio template for developer/designers built with React.
 
 ### [live preview](https://github.com/shubh5555/dev-dashboard-portfolio/)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://github.com/shubh5555/dev-dashboard-portfolio/)
+[![react portfoiio]()](https://github.com/shubh5555/dev-dashboard-portfolio/)
+<!-- src/assets/images/react%20portfolio%20gif.gif -->
 
 ### Features
 
@@ -18,7 +19,7 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>git clone https://github.com/shubh5555/dev-dashboard-portfolio.git</pre>
  
 Install required dependencies
 
